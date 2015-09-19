@@ -1,0 +1,14 @@
+{
+  "name": "$name$",
+  "version": "$version$",
+  "description": "$description$",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "$author$",
+  "license": "$license$",
+  "dependencies": {
+    "bower": "^1.5.2"
+  }
+}
