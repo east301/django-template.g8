@@ -39,8 +39,6 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'djangobower',
-
     'apps.top',
 ) + ADDITIONAL_INSTALLED_APPS
 
