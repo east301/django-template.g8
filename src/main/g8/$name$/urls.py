@@ -8,8 +8,8 @@ from django.conf.urls import include, url
 
 urlpatterns = [
     #
-    url(r'^\$', 'apps.top.views.welcome'),
-    url(r'^about/\$', 'apps.top.views.about'),
+    url(r'^\$', 'apps.front.views.welcome'),
+    url(r'^about/\$', 'apps.front.views.about'),
 ]
 
 
